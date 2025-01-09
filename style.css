@@ -1,0 +1,22 @@
+* {
+   font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 20px;
+    margin: 20px;
+}
+
+li {
+    margin: 25px;
+    text-align: center;
+}
+
+a {
+    color: black;
+}
